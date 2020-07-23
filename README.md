@@ -35,23 +35,30 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
   
 - **Programming Languages**
   - Java (Preferred)
-    - Unit Tests with JUnit
-    - Spring Framework
   - Javascript
-    - Backend development with Node.js
-    - Unit Tests with Mocha or Jest
   - Python
     
 - **Backend Frameworks**
   - Express
   - Spring
     
+- **Testing tools**
+  - JUnit
+  - Jest and Mocha
+    
 - **Version control system**
   - GIT
 
 ## Completed Courses
+- De férias com .NET 2020 ([certificate](https://certificates.digitalinnovation.one/25ED2195))
+- Projetos ágeis com SCRUM ([certificate](https://certificates.digitalinnovation.one/4399CF5D))
 
 ## Events
+- 5ª jornada da Computação
+  - To check certificate validation follow these steps:
+    - Go to http://www.siex.proexc.ufu.br/certificado/validar
+    - Then copy this credential: 8215.ddb8.7b88.a353.594f.3fb2.2367.372d
+    - Paste this credential at "Número de autenticação" field
 
 ## Some information about me
 
