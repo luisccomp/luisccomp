@@ -8,9 +8,9 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 ## Professional experience
 - (2017 - 2018):
   - **Technical Support Internship** at Secretaria de Estado de Saúde de Minas Gerais
-    - Server management and Backup;
-    - Network maintenance;
-    - Help desk and User support;
+    - Server management and Backup: checking server status and create some periodical backups;
+    - Network maintenance: cable managament and basic switch configuration;
+    - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
 
 ## Technical Knowledge:
 - **General**
