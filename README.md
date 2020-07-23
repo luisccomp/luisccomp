@@ -1,5 +1,5 @@
 # Luis Carlos Silva Júnior
-I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Federal University of Uberlândia interested on Full-Stack development, Data modeling and Relational Database Management Systems. Currently I'm looking for an oportunity to be come a developer as a Backend or Frontend developer in order to acquire professional experience. I want to contribute with work environment putting in pratice everything learned on my graduation.
+I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Federal University of Uberlândia and very interested on Full-Stack development, Data modeling and Relational Database Management Systems. Currently I'm looking for an oportunity to be come a developer as a Backend or Frontend developer in order to acquire professional experience. I want to contribute with work environment putting in pratice everything learned on my graduation and to share my knowledge with people.
 
 🏠 Uberlândia, MG - Brazil\
 📱 +55 34 99656-8956\
