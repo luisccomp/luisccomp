@@ -1,4 +1,4 @@
-# Luis Carlos Silva Júnior
+# Luis Carlos Silva Júnior (Under Construction)
 I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Federal University of Uberlândia and very interested on Full-Stack development, Data modeling and Relational Database Management Systems. Currently I'm looking for an oportunity to be come a developer as a Backend or Frontend developer in order to acquire professional experience. I want to contribute with work environment putting in pratice everything learned on my graduation and to share my knowledge with people.
 
 🏠 Uberlândia, MG - Brazil\
@@ -11,6 +11,9 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
     - Server management and Backup: checking server status and create some periodical backups;
     - Network maintenance: cable managament and basic switch configuration;
     - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
+    
+## Education Background
+- (2011 - Current): Undergraduate Student at Federal University of Uberlândia.
 
 ## Technical Knowledge:
 - **General**
@@ -45,6 +48,10 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
     
 - **Version control system**
   - GIT
+
+## Completed Courses
+
+## Events
 
 ## Some information about me
 
