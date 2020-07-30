@@ -36,7 +36,7 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 - **Programming Languages**
   - Java (Preferred)
   - Javascript
-  - Python
+  - Typescript
     
 - **Backend Frameworks**
   - Express
