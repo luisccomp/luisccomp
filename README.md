@@ -3,7 +3,7 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 
 🏠 Uberlândia, MG - Brazil\
 📱 +55 34 99656-8956\
-✉️ luisccomp@gmail.com
+✉️ luisccomp at (gmail)
 
 ## Professional experience
 - (2017 - 2018):
