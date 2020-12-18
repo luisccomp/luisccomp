@@ -13,9 +13,10 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
     - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
 
 - (2020):
-  - **Backend developer** at Dryve Technologies
+  - **Backend developer internship** at Dryve Technologies
     - Create and maintain REST API's
     - Develop unit tests and integration tests between internal microsservices
+    - Maintain and create database scripts and queries
     
 ## Education Background
 - (2011 - Current): Undergraduate Student at Federal University of Uberlândia.
