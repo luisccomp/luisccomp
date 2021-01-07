@@ -10,7 +10,7 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 - (2020):
   - **Backend developer internship** at Dryve Technologies
     - Create and maintain REST API's
-    - Develop unit tests and integration tests between internal microsservices
+    - Develop unit tests and integration tests
     - Maintain and create database scripts and queries
 
 - (2017 - 2018):
