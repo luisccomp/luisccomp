@@ -6,17 +6,18 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 ✉️ luisccomp at (gmail)
 
 ## Professional experience
-- (2017 - 2018):
-  - **Technical Support Internship** at Secretaria de Estado de Saúde de Minas Gerais
-    - Server management and Backup: checking server status and create some periodical backups;
-    - Network maintenance: cable managament and basic switch configuration;
-    - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
 
 - (2020):
   - **Backend developer internship** at Dryve Technologies
     - Create and maintain REST API's
     - Develop unit tests and integration tests between internal microsservices
     - Maintain and create database scripts and queries
+
+- (2017 - 2018):
+  - **Technical Support Internship** at Secretaria de Estado de Saúde de Minas Gerais
+    - Server management and Backup: checking server status and create some periodical backups;
+    - Network maintenance: cable managament and basic switch configuration;
+    - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
     
 ## Education Background
 - (2011 - Current): Undergraduate Student at Federal University of Uberlândia.
