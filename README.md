@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently looking for an entry level work opportunity as Web developer (Backend developer preferred);
-- 🌱 I’m currently learning Frontend development with Angular 9 and Backend development with Java + Spring Web;
+- 🌱 I’m currently learning Frontend development with Angular and Backend development with Java + Spring Web;
 - 🌱 I’m also learning Unit Tests with JUnit and Mockito;
 - ✈️ I'm available to relocate;
 
