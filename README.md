@@ -7,6 +7,12 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
 
 ## Professional experience
 
+- (2021):
+  - **JR Python Backend developer** at AWS Code:
+    - Creating, maintaining and testing features and assist development squads
+    - Writing unittests and gather project's requirements according to customer's and project's needs
+    - Maintain, create and update database scripts and queries
+
 - (2020):
   - **Backend developer internship** at Dryve Technologies
     - Create and maintain REST API's
@@ -20,7 +26,7 @@ I'm Luis Carlos Silva Júnior, undergraduate student of Computer Science at Fede
     - Help desk and User support: help users with their demmands and/or create solutions to solve user problems;
     
 ## Education Background
-- (2011 - Current): Undergraduate Student at Federal University of Uberlândia.
+- (2011 - 2021): Undergraduate Student at Federal University of Uberlândia.
 
 ## Technical Knowledge:
 - **General**
